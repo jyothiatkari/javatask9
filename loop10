@@ -1,0 +1,17 @@
+package batch82r;
+
+public class loop10 {
+	public int for3(int num) {
+		for(int i=5;i>=1;i--) {
+			System.out.println(i);
+		}
+		return 0;
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+      loop10 l=new loop10();
+      l.for3(1);
+	}
+
+}
