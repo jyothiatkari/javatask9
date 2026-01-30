@@ -1,0 +1,16 @@
+package batch82r;
+
+public class loop8 {
+    public void for1(int i) {
+    	for(int num=1;num<=5;num++) {
+    		System.out.println(num);
+    	}
+    }
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		loop8 l=new loop8();
+		l.for1(1);
+
+	}
+
+}
