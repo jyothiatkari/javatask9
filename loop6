@@ -1,0 +1,16 @@
+package batch82r;
+
+public class loop6 {
+	public void dowhile2(int i) {
+		do {
+			System.out.println("loop executes atleast once");
+		}while(i==1);
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+    loop6 l=new loop6();
+    l.dowhile2(2);
+	}
+
+}
