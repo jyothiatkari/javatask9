@@ -1,0 +1,16 @@
+package batch82r;
+
+public class loop9 {
+	public void for2(int num) {
+		for(int i=2;i<=20;i+=2) {
+			System.out.println(i);
+		}
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+     loop9 l=new loop9();
+     l.for2(1);
+	}
+
+}
